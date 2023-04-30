@@ -1,3 +1,5 @@
+### Created for BU GDSC Workshop
+
 # Intro to hooks
 
 This app is meant to be used as a workshop for teaching react hooks. Workshop content is below, excercises can be done by running the app.
